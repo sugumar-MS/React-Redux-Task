@@ -44,7 +44,9 @@ Make sure you have the following installed on your local development environment
 To start the development server, run:
 
     ```bash
+
     npm run dev
+    
     ```
 
 ![alt text](image.png)
